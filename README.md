@@ -33,8 +33,8 @@ This project predicts customer churn using Machine Learning techniques. The goal
 
 ## Model Performance
 
-* Logistic Regression Accuracy: XX%
-* Random Forest Accuracy: XX%
+* Logistic Regression Accuracy
+* Random Forest Accuracy
 
 ## Author
 
